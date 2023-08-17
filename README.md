@@ -1,4 +1,5 @@
-# Target-SQL
+# Target-SQL  
+# Sales trend Exploration using Data minig
 Following are the actionable insights and recommendations to it:-
 1. Actionable Insight -
 If we check monthly sales of all years combined into their respective months then we can clearly see a seasonality effect in the numbers,
